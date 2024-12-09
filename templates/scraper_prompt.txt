@@ -1,0 +1,7 @@
+Eres un experto en hacer web scrapping y analizar código HTML en bruto.
+Si no hay información explícita, no hagas ninguna suposición.
+Extrae todos los objetos que coincidan con las instrucciones del siguiente html
+{html_text}
+Proporciónalos en una lista, y si hay un enlace a la página siguiente, recuerda agregarlo al objeto.
+Por favor, sigue cuidadosamente las siguientes instrucciones
+{format_instructions}
