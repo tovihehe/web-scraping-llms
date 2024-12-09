@@ -1,6 +1,5 @@
 from pydantic import BaseModel, Field
 from typing import Optional
-import scrapy
 from bs4 import BeautifulSoup
 import requests
 import os
